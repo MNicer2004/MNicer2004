@@ -9,28 +9,32 @@
     <img src="https://img.shields.io/github/followers/MNicer2004?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   <a href="mailto:mcreationstudio1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Gmail"/>
   </a>
   
 </p>
 
 ---
+<p align="center">
+  🌐 <strong>Check out my portfolio:</strong> <a href="https://mnicer2004.github.io/mcreation-website/" target="_blank"><strong>mcreation-website</strong></a>
+</p>
 
 ### 👤 About Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,,blender,photoshop,figma,illustrator" alt="Technologies & Tools" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,blender,photoshop,figma,illustrator,git,github" alt="Technologies & Tools" />
 
 <p>
   <strong>Developer</strong> &nbsp; | &nbsp; <strong>Creative Designer</strong>
 </p>
 
-<p><em>Turning ideas into interactive experiences</em></p>
+<p><em>Currently diving into programming and building up my skills.</em></p>
 
 <p>
-  <strong>Achievement:</strong> 2nd Runner-Up, 1st Animation Festival 첫번째 애니메이션 페스티벌 of Lorma Colleges
+  <strong>Achievement:</strong> 🥈 1st Animation Festival 🇰🇷 of Lorma Colleges
 </p>
+
 
 </div>
 
@@ -43,22 +47,24 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MNicer2004&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Overall GitHub Stats" />
+  
 </p>
 
 
 ---
 
 ### 🏅 Most Used Language
-
-JavaScript • Python • Java • HTML • CSS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNicer2004&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 ---
 
 #### ⚡ Fun Facts
 
-- 🧩 I solve bugs like puzzles.  
-- ☕ Fueled by coffee & creativity.  
-- 🎨 I blend code & design for engaging experiences.
+- 🧩 I enjoy learning new tools  
+- 🏋️ I go to the gym not just for gains, but to clear my mind and stay focused. 
+- 🧑‍💻 I blend code & design for engaging experiences.
 
 ---
 

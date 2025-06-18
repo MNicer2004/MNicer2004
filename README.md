@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,blender,photoshop,figma,illustrator" alt="Technologies & Tools" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,,blender,photoshop,figma,illustrator" alt="Technologies & Tools" />
 
 <p>
   <strong>Developer</strong> &nbsp; | &nbsp; <strong>Creative Designer</strong>

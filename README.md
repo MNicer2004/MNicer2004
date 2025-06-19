@@ -16,7 +16,7 @@
 
 ---
 <p align="center">
-  🌐 <strong>Check out my portfolio:</strong> <a href="https://mnicer2004.github.io/mcreation-website/" target="_blank"><strong>mcreation-website</strong></a>
+  🌐 <strong>Check out my portfolio:</strong> <a href="https://mnicer2004.github.io/mcreation-website/" target="_blank"><strong>mcreation.portfolio</strong></a>
 </p>
 
 ### 👤 About Me

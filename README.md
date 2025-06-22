@@ -28,7 +28,7 @@
   <strong>Full Stack Developer</strong> &nbsp; | &nbsp; <strong>Creative Designer</strong>
 </p>
 
-<p><em>Currently diving into programming and building up my skills.</em></p>
+<p><em>Actively learning full-stack and growing my skill set.</em></p>
 
 <p>
   <strong>Achievement:</strong> 🥈 1st Animation Festival 🇰🇷 of Lorma Colleges

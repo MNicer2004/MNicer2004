@@ -30,9 +30,6 @@
 
 <p><em>Actively learning full-stack and growing my skill set.</em></p>
 
-<p>
-  <strong>Achievement:</strong> 🥈 1st Animation Festival 🇰🇷 of Lorma Colleges
-</p>
 
 </div>
 

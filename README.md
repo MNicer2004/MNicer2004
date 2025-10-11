@@ -13,11 +13,12 @@
   </a>
 </p>
 
----
+
+<!--
 <p align="center">
   🌐 <strong></strong> <a href="https://mnicer2004.github.io/mcreation-website/" target="_blank"><strong>mcreation.portfolio</strong></a>
 </p>
-
+-->
 ---
 
 ### 👤 About Me
@@ -28,8 +29,8 @@
   <strong>Full Stack Developer</strong> &nbsp; | &nbsp; <strong>Creative Designer</strong>
 </p>
 
-<p><em>Actively learning full-stack and growing my skill set.</em></p>
-
+<p><em>🚀 Currently learning and mastering the MERN Stack, focusing on building dynamic full-stack web apps and sharpening my skills to create modern, scalable solutions.
+</em></p>
 
 </div>
 
@@ -42,6 +43,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🔹 Backend
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -52,6 +54,7 @@
 #### 🔹 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🔹 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,22 +66,39 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
-<!--
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MNicer2004&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" alt="Overall GitHub Stats" />
 </p>
 
-<!--
-### 🏅 Most Used Languages
+---
 
+
+### 📈 Contributions & Languages
+
+<!-- Streak card (stable) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNicer2004&layout=compact&theme=radical&cache_seconds=10" alt="Most Used Languages" />
+  <img
+    src="https://streak-stats.demolab.com?user=MNicer2004&theme=radical&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
 
-
-
+<!-- Top languages (you had this working; keeping it) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2a5298,100:1e3c72&height=80&section=footer" alt="footer"/>
-</p>-->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNicer2004&layout=compact&theme=radical&langs_count=8"
+    alt="Most Used Languages"
+  />
+</p>
+
+<!-- Overall stats (stable) -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MNicer2004&theme=radical"
+    alt="GitHub Profile Details"
+  />
+</p>
+

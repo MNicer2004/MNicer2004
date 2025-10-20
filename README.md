@@ -66,13 +66,6 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MNicer2004&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" alt="Overall GitHub Stats" />
-</p>
 
 ---
 

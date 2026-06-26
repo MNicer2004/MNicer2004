@@ -1,9 +1,9 @@
-<!-- Wave Header -->
+<!-- Wave Header 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hey%2C%20I%27m%20Mark%20Christian%20E.%20Nicer!&fontSize=40&fontColor=ffffff&animation=twinkling" alt="header" />
 </p>
 
-<!-- Profile & Contact Badges -->
+<!-- Profile & Contact Badges 
 <p align="center">
   <a href="https://github.com/MNicer2004">
     <img src="https://img.shields.io/github/followers/MNicer2004?label=Follow&style=social" alt="GitHub Followers"/>
@@ -18,10 +18,10 @@
 <p align="center">
   🌐 <strong></strong> <a href="https://mnicer2004.github.io/mcreation-website/" target="_blank"><strong>mcreation.portfolio</strong></a>
 </p>
--->
+
 ---
 
-### 👤 About Me
+
 
 <div align="center">
 

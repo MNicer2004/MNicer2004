@@ -16,13 +16,14 @@
 
 <!--
 <p align="center">
-  🌐 <strong></strong> <a href="https://mnicer2004.github.io/mcreation-website/" target="_blank"><strong>mcreation.portfolio</strong></a>
+  🌐 <strong>just a guy who's into tech and always trying to learn something new.
+</strong> <a href="https://mnicer2004.github.io/mcreation-website/" target="_blank"><strong>mcreation.portfolio</strong></a>
 </p>
-
----
-
+-->
 
 
+
+<!--
 <div align="center">
 
 <p>
@@ -75,6 +76,14 @@
 ### 📈 Contributions & Languages
 
 <!-- Streak card (stable) -->
+<div align="center">
+<strong>Fueled by curiosity.</strong>
+  
+</div>
+<div align="center">
+<strong>vVv</strong>
+  
+</div>
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=MNicer2004&theme=radical&date_format=j%20M%5B%20Y%5D"

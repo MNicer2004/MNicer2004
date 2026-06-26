@@ -86,7 +86,7 @@
 </div>
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=MNicer2004&theme=radical&date_format=j%20M%5B%20Y%5D"
+    src="https://streak-stats.demolab.com?user=Marad0x&theme=radical&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak"
   />
 </p>
@@ -94,7 +94,7 @@
 <!-- Top languages (you had this working; keeping it) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNicer2004&layout=compact&theme=radical&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marad0x&layout=compact&theme=radical&langs_count=8"
     alt="Most Used Languages"
   />
 </p>
@@ -102,7 +102,7 @@
 <!-- Overall stats (stable) -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MNicer2004&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marad0x&theme=radical"
     alt="GitHub Profile Details"
   />
 </p>
